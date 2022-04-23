@@ -1,0 +1,14 @@
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\bin\Debug\netcoreapp3.1\LS_5_Loops.exe
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\bin\Debug\netcoreapp3.1\LS_5_Loops.deps.json
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\bin\Debug\netcoreapp3.1\LS_5_Loops.runtimeconfig.json
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\bin\Debug\netcoreapp3.1\LS_5_Loops.runtimeconfig.dev.json
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\bin\Debug\netcoreapp3.1\LS_5_Loops.dll
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\bin\Debug\netcoreapp3.1\LS_5_Loops.pdb
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\obj\Debug\netcoreapp3.1\LS_5_Loops.csproj.AssemblyReference.cache
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\obj\Debug\netcoreapp3.1\LS_5_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\obj\Debug\netcoreapp3.1\LS_5_Loops.AssemblyInfoInputs.cache
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\obj\Debug\netcoreapp3.1\LS_5_Loops.AssemblyInfo.cs
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\obj\Debug\netcoreapp3.1\LS_5_Loops.csproj.CoreCompileInputs.cache
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\obj\Debug\netcoreapp3.1\LS_5_Loops.dll
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\obj\Debug\netcoreapp3.1\LS_5_Loops.pdb
+C:\Users\bwoolford\source\repos\LS_5_Loops\LS_5_Loops\obj\Debug\netcoreapp3.1\LS_5_Loops.genruntimeconfig.cache
